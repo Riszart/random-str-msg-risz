@@ -1,0 +1,25 @@
+{
+  "name": "random-str-msg-risz",
+  "version": "1.0.0",
+  "description": "mensaje aleatorio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ramdow"
+  ],
+  "author": "riszart daryl <22.r.d.v.c.12@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Riszart/random-str-msg-risz/issues"
+  },
+  "homepage": "https://github.com/Riszart/random-str-msg-risz#readme",
+  "bin": {
+    "ramdow-str-msg-risz": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
